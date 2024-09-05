@@ -35,8 +35,6 @@
 
 Before you can run the DreamWheels Management System, ensure you have the following installed:
 
-- [Node.js](https://nodejs.org/en/download/)
-- [npm](https://www.npmjs.com/get-npm)
 - [Git](https://git-scm.com/)
 
 ### Installation
