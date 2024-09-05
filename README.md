@@ -44,20 +44,17 @@ Before you can run the DreamWheels Management System, ensure you have the follow
     ```bash
     git clone https://github.com/ShayArgaman/DreamWheels_Vehicle_Procurement_Management.git
     cd DreamWheels_Vehicle_Procurement_Management
+    start theFinalProject.sln
+    ```
+2. **Navigate to the Project Directory**:
+   ```bash
+    cd DreamWheels_Vehicle_Procurement_Management
     ```
 
-2. **Install dependencies**:
-
-    ```bash
-    npm install
+3. **Open the Solution File**:
     ```
-
-3. **Run the application**:
-
-    ```bash
-    npm start
+    start theFinalProject.sln
     ```
-
 ---
 
 ## Usage
