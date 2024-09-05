@@ -42,18 +42,16 @@ Before you can run the DreamWheels Management System, ensure you have the follow
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/ShayArgaman/DreamWheels_Vehicle_Procurement_Management.git
-    cd DreamWheels_Vehicle_Procurement_Management
-    start theFinalProject.sln
+   git clone https://github.com/ShayArgaman/DreamWheels_Vehicle_Procurement_Management.git
     ```
 2. **Navigate to the Project Directory**:
    ```bash
-    cd DreamWheels_Vehicle_Procurement_Management
+   cd DreamWheels_Vehicle_Procurement_Management
     ```
 
 3. **Open the Solution File**:
     ```
-    start theFinalProject.sln
+   start start DreamWheelsManagement.sln
     ```
 ---
 
