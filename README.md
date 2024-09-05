@@ -44,8 +44,8 @@ Before you can run the DreamWheels Management System, ensure you have the follow
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/dreamwheels-management-system.git
-    cd dreamwheels-management-system
+    git clone https://github.com/yourusername/DreamWheels_Vehicle_Procurement_Management.git
+    cd DreamWheels_Vehicle_Procurement_Management
     ```
 
 2. **Install dependencies**:
