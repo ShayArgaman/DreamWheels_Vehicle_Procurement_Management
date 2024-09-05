@@ -42,7 +42,7 @@ Before you can run the DreamWheels Management System, ensure you have the follow
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/DreamWheels_Vehicle_Procurement_Management.git
+    git clone https://github.com/ShayArgaman/DreamWheels_Vehicle_Procurement_Management.git
     cd DreamWheels_Vehicle_Procurement_Management
     ```
 
